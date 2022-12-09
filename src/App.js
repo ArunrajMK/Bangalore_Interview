@@ -2,11 +2,10 @@
 import './App.css';
 import Flight from './components/Flight';
 
-
 function App() {
   return (
     <div className="App">
-     <Flight/>
+    <Flight/>
     </div>
   );
 }
